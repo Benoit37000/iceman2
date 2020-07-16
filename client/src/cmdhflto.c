@@ -21,7 +21,7 @@
 #include "cmdhf14a.h"
 #include "protocols.h"
 #include "fileutils.h"  //saveFile
-
+//comentare  ben
 #define CM_MEM_MAX_SIZE     0x1FE0  // (32byte/block * 255block = 8160byte)
 
 static int CmdHelp(const char *Cmd);
